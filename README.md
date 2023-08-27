@@ -1,9 +1,14 @@
-### Hi there 👋
+<!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
 
-<p align="center">
-    <img src="images/banner.png" alt="Banner">
-</p>
-
+```shell
+ { “name” : “Jose Manuel Bravo”,
+   “role” : “FullStack ”,
+   “data” : 
+     { 
+      "Linkedin" : "https://www.linkedin.com/in/jose-manuel-bravo", 
+     }
+ }
+```
 <h3>
   🚀 Principal Stack
 </h3> 
@@ -43,7 +48,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">
   <img src="https://img.shields.io/badge/Name.com-DE0C92?style=for-the-badge&logo=name-dot-com&logoColor=white">
 </p>
 </br>
