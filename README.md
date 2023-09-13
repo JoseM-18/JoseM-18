@@ -55,7 +55,7 @@
 ### 🌱 I'm currently learning...
 
 - Django
-- TypeScript
+- Go
   </br>
 
 ### Github Stats:
