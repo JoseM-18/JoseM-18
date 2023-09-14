@@ -54,8 +54,11 @@
 
 ### 🌱 I'm currently learning...
 
-- Django
 - Go
+- zincsearch
+- Vue 3
+- chi
+- Tailwind
   </br>
 
 ### Github Stats:
