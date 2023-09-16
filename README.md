@@ -64,8 +64,7 @@
 ### Github Stats:
 
 <table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccgg1997&theme=radical&card_width=450em)](https://github.com/JoseM-18/JoseM-18/blob/main/README.md"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseM-18&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
-  </tr>
+  <br>
+   <img src="https://github-readme-stats.vercel.app/api/Josem-18?username=Tira&theme=tokyonight&langs_count=6&layout=compact&range=all_time" alt="wakatime" width="62.25%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseM-18&theme=tokyonight&langs_count=2" alt="most_langs" width="37.75%">
+  </br>
 </table>
